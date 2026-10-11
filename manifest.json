@@ -1,0 +1,73 @@
+{
+  "note": "Card library for the JM Systems Co. weekly Facebook post. The scheduled task picks one card from here and writes a fresh caption around it. Images are served from raw.githubusercontent.com and are live the moment they are pushed — there is no build step.",
+  "base_url": "https://raw.githubusercontent.com/jjorge1999/jmsystemsco-ads/main/",
+  "page": "JM System's Co. (page id 1215394658326091)",
+  "cards": [
+    {
+      "id": "A01",
+      "file": "library/A01-double-booked.png",
+      "situation": "The function hall is double-booked — two events on the same Saturday, both already paid.",
+      "hook": "Sabay. Parehong bayad.",
+      "hook_formula": "the two-word verdict",
+      "device": "calendar grid with a clash on one square",
+      "offer": "Business system, P75,000",
+      "season": "strongest Sep-Dec, usable year round",
+      "last_posted": "2026-10-05"
+    },
+    {
+      "id": "A02",
+      "file": "library/A02-forty-messages.png",
+      "situation": "Peak season: forty unread Messenger enquiries, one person answering.",
+      "hook": "Apatnapung message. Isa kang sumasagot.",
+      "hook_formula": "the specific count",
+      "device": "stack of fading phone notifications",
+      "offer": "AI assistant add-on, P1,500/month (say plainly it is an add-on)",
+      "season": "any, strongest in peak months",
+      "last_posted": "2026-10-05"
+    },
+    {
+      "id": "A03",
+      "file": "library/A03-lost-phone.png",
+      "situation": "Phone lost. Every booking lost with it — no copy anywhere.",
+      "hook": "Isang cellphone. Lahat ng booking.",
+      "hook_formula": "the small object",
+      "device": "four-row list, type only",
+      "offer": "Business system, P75,000",
+      "season": "any",
+      "last_posted": "2026-10-06"
+    },
+    {
+      "id": "A04",
+      "file": "library/A04-unpaid-balance.png",
+      "situation": "No record of who still owes a balance after taking many downpayments.",
+      "hook": "Aminin: may hindi pa bayad. Hindi mo alam kung sino.",
+      "hook_formula": "the confession",
+      "device": "reservation slip with the balance line left blank",
+      "offer": "Business system, P75,000",
+      "season": "any, strongest after a busy booking month",
+      "last_posted": "2026-10-07"
+    },
+    {
+      "id": "A05",
+      "file": "library/A05-not-on-google.png",
+      "situation": "Someone searched for what you sell, in your own town, and you did not appear.",
+      "hook": "Hindi ka nawawala. Hindi ka lang nahahanap.",
+      "hook_formula": "the gentle contradiction",
+      "device": "search results with the competitors anonymised",
+      "offer": "Starter website, P15,000 (Google Business Profile is the part that answers this)",
+      "season": "any",
+      "last_posted": "2026-10-08"
+    },
+    {
+      "id": "A06",
+      "file": "library/A06-holiday-hours.png",
+      "situation": "The same holiday-hours question asked over and over.",
+      "hook": "«Open po ba kayo sa Nov 1?»",
+      "hook_formula": "the overheard line",
+      "device": "the same question repeating and fading, with a tally",
+      "offer": "Starter website, P15,000",
+      "season": "SEASONAL — names Nov 1. Do not use after 2026-11-01 unless the card is remade for the next holiday.",
+      "last_posted": "2026-10-11"
+    }
+  ]
+}
